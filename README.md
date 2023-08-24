@@ -12,3 +12,7 @@ Il prit finalement son courage à deux :hand: et alla à son lieu d'entrainement
 Cependant, après plus de deux heures à attendre, les chevaliers commencèrent à s'inquiéter et à le rechercher.
 Derrière un buisson, ils trouvèrent le **commandant :skull:**. Mais que lui était-il arrivé :interrobang:
 
+Tout le monde cogita et en vint à la conclusion que le commandant fut assassiner. 
+Ils fuent tous choqués quand il vit le meurtrier se tenant juste à coté du corps commandant.
+C'était sa femme, elle se mit a parler et dit: "Tout le monde craque un moment donner".
+
