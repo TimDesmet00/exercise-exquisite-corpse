@@ -1,5 +1,29 @@
 # exercise-exquisite-corpse
 
+Exercices réalisés lors de la formation BeCode, visant à travailler le Markdown et les Git : merge, pull, post.
+
+
+## Authors
+
+- [Tim Desmet](https://github.com/TimDesmet00)
+
+
+## Contributor
+
+- https://github.com/vdourson2
+- https://github.com/Mardixx
+- https://github.com/RosaBld
+
+
+## Tech Stack
+
+markdown
+
+git
+
+## exercices
+
+
 jeu d'histoire en groupe ( perfect )
 
 Le chevalier s'est levée, c'est équiper et est partit vers son casernement.
