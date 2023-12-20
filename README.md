@@ -21,7 +21,7 @@ markdown
 
 git
 
-## exercices
+## Exercices
 
 
 jeu d'histoire en groupe ( perfect )
